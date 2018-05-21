@@ -1,8 +1,8 @@
 {
-    "name": "kesar/ethereum-php",
+    "name": "ibtob/ethereum-php-1",
     "description": "Ethereum client library in PHP",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.0",
         "graze/guzzle-jsonrpc": "^3.2"
     },
     "autoload": {
